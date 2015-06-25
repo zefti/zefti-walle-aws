@@ -1,0 +1,6 @@
+{
+  "cloudFormation" : [
+      "environment"
+    , "stack"
+  ]
+}

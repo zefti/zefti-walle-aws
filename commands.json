@@ -1,0 +1,14 @@
+{
+  "aws" : {
+    "s3" : {
+        "create" : "createS3Bucket"
+      , "update" : "updateS3Bucket"
+      , "delete" : "removeS3Bucket"
+    },
+    "cloudFormation" : {
+        "create" : "createCloudFormation"
+      , "update" : "updateCloudFormation"
+      , "delete" : "removeCloudFormation"
+    }
+  }
+}
